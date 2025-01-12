@@ -20,3 +20,16 @@ How It Works
 	3.	Model Training: Use machine learning models like Linear Regression, Random Forest, or Neural Networks to predict future index movements.
 	4.	Evaluation: Measure performance using metrics like Mean Squared Error (MSE) and R-squared.
 	5.	Visualization: Plot predictions against actual data for validation and insight.
+Usage
+	1.	Clone the repository
+ 	2.	Open the NASDAQ_100_predictor.ipynb file in Jupyter Notebook.
+	3.	Follow the steps in the notebook to load data, train models, and make predictions.
+
+Future Enhancements
+	•	Incorporate deep learning models such as LSTMs for time series analysis.
+	•	Include sentiment analysis of financial news to improve predictions.
+	•	Deploy the model as a web or mobile application for real-time use.
+
+Acknowledgments
+	•	Special thanks to financial data providers and open-source libraries for enabling this project.
+	•	Inspired by the growing interest in algorithmic trading and predictive analytics.
